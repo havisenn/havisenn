@@ -1,7 +1,6 @@
 ### About me
 - 👋 Hi, I'm @havisenn.
 - 👀 I'm interested in programming.
-- 🌱 I'm currently learning the Java programming language
 
 ### Languages
 
