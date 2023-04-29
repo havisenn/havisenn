@@ -1,4 +1,4 @@
-### About me
+### Welcome to my profile
 - 👋 Hi, I'm @havisenn.
 - 👀 I'm interested in programming.
 
