@@ -1,7 +1,3 @@
-# Welcome to my profile
-- 👋 Hi, I'm @havisenn.
-- 👀 I'm interested in programming.
-
 # Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
